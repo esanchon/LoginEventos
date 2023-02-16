@@ -17,6 +17,5 @@ public class WelcomeActivity extends AppCompatActivity {
         Bundle extras = getIntent().getExtras();
         welcome.setText(extras.getString("username"));
 
-
     }
 }
