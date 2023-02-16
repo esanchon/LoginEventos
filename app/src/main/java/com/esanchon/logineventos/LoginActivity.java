@@ -31,7 +31,6 @@ public class LoginActivity extends AppCompatActivity {
         createAccount = findViewById(R.id.tv_createAcount);
 
 
-
         password.setOnEditorActionListener(new TextView.OnEditorActionListener() {
             @Override
             public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
