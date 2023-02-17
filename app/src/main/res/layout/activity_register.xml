@@ -16,7 +16,7 @@
         android:id="@+id/iv_login_reg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/user2"
+        android:src="@drawable/userlogin"
         app:layout_constraintBottom_toTopOf="@+id/et_username_reg"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
